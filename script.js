@@ -1,5 +1,5 @@
 /**
- * DAPUR RASA NUSANTARA - JAVASCRIPT LOGIC
+ * DAPUR RASA ITALIA - JAVASCRIPT LOGIC
  * Interaktivitas Navigasi, Filter Menu, Modal Pesanan, & Formulir Reservasi
  */
 
